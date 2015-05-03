@@ -255,9 +255,6 @@ if __name__ == "__main__":
 	if DEBUG_MODE:
 		raw_input("press enter...")
 
-	# nodes[0].init()
-	# nodes[1].init()
-
 	for i in range(0, N):
 		nodes[i].init()
 
